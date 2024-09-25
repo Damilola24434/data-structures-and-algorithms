@@ -18,7 +18,8 @@ set_times2 = []
 print(lineup(artists1, set_times1))
 print(lineup(artists2, set_times2))
 '''
-#### Unit two section one question 2...
+#### Unit two section one question 2 .
+
 '''
 You are designing an app for your festival to help attendees 
 have the best experience possible! As part of the application,
